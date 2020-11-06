@@ -10,6 +10,7 @@ public class Addition {
 	public void sumStr(String s1,String s2)
 	{
 		String s3=s1+s2;
+		System.out.println(s1);
 		System.out.println(s3);
 	}
 	public static void main(String[] args) {
