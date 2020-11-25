@@ -18,6 +18,7 @@ public class Addition {
 		Addition a=new Addition();
 		a.sum(10, 20);
 		a.sumStr("A","BCD");
+		a.sum(3, 2);
 
 	}
 
